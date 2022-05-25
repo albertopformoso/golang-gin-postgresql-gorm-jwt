@@ -1,0 +1,12 @@
+{
+  "name": "Start on Heroku: Go",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "golang-api",
+    "go",
+    "sample",
+    "example"
+  ],
+  "website": "https://github.com/albertopformoso/golang-gin-postgresql-gorm-jwt",
+  "repository": "https://github.com/albertopformoso/golang-gin-postgresql-gorm-jwt"
+}
