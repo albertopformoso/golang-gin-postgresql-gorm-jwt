@@ -17,7 +17,7 @@ resource "heroku_build" "example" {
     app_id = heroku_app.default.id
 
     source {
-        url = "https://github.com/albertopformoso/golang-gin-postgresql-gorm-jwt/archive/refs/tags/v1.0.1.tar.gz"
+        url = "https://github.com/albertopformoso/golang-gin-postgresql-gorm-jwt/archive/refs/tags/v1.0.0.tar.gz"
         version = "v1.0.0"
     }
 }
